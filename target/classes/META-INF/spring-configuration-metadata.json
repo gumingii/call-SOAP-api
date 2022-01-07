@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.hikari",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.ssnc.poWels.config.DatasourceConfig",
+      "sourceMethod": "hikariConfig()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
